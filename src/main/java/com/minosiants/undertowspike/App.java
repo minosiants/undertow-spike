@@ -26,7 +26,7 @@ import org.jboss.resteasy.plugins.server.undertow.UndertowJaxrsServer;
 public class App {
 
 	public static void main(String[] args) throws URISyntaxException {
-		String WEB_DIR="/home/kaspar/stuff/workspaces/java/undertow-spike/src/web/app";
+		String WEB_DIR=" ..../undertow-spike/src/web/app";
 		
 		UndertowJaxrsServer jaxRsserver = new UndertowJaxrsServer();
 	    jaxRsserver.deploy(RestApp.class);
