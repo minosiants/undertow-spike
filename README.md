@@ -1,7 +1,7 @@
 undertow-spike
 ==============
 
-## Spike how to use undertow.io web server 
+## Spike how to use [undertow.io](http://undertow.io/) web server 
 
 Undertow is a flexible performant web server written in java, providing both blocking and non-blocking API’s based on NIO.
 
@@ -16,7 +16,7 @@ Start time is so quick.
  [Twitter Flight](http://twitter.github.io/flight/) for UI
  
 
- ```
+ ```java
  
  public class App {
 
