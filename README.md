@@ -1,5 +1,3 @@
-undertow-spike
-==============
 
 ## Spike how to use [undertow.io](http://undertow.io/) web server 
 
